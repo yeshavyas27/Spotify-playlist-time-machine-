@@ -1,2 +1,2 @@
-# Web-scraping-projects
+# Web-scraping
 Using BeautifulSoup
